@@ -1,4 +1,4 @@
-UNIVERSIDAD ESTATAL AMAZÓNICA	
-Repositorio Programación Semana 10	
-Carrera: Ingeniería en Tecnologías de la Información	
-Nombre: Andrés Eduardo Franco Taco	
+UNIVERSIDAD ESTATAL AMAZÓNICA  <br>
+Repositorio Programación Semana 10	<br>
+Carrera: Ingeniería en Tecnologías de la Información	<br>
+Nombre: Andrés Eduardo Franco Taco	<br>
